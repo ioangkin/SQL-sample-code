@@ -12,4 +12,4 @@ Demonstrate basic understanding of SQL functionality, queries and data structure
 - Perform basic queries and join tables
 
 ## Testing
-Performed in online SQL cell: https://www.jdoodle.com/execute-sql-online
+Performed at online SQL cell: https://www.jdoodle.com/execute-sql-online
