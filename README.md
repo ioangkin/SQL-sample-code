@@ -10,3 +10,6 @@ Demonstrate basic understanding of SQL functionality, queries and data structure
 ## Functionality
 - Create and populate tables with apropriate data structures
 - Perform basic queries and join tables
+
+## Testing
+Performed in online SQL cell: https://www.jdoodle.com/execute-sql-online
