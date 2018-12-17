@@ -37,7 +37,6 @@ BEGIN; /* populate department table */
  INSERT INTO dept VALUES (006,'PRODUCTION','PORTSMOUTH');
  INSERT INTO dept VALUES (007,'OPERATIONS','PORTSMOUTH');
  INSERT INTO dept VALUES (008,'PURCHASING','BRIGHTON');
-
 END;
 
 /* Query all data in employees table */
